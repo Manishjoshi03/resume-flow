@@ -42,9 +42,6 @@ ResumeFlow is a full-stack web application for creating, managing, customizing, 
 resume-flow/
 ├── frontend/
 ├── backend/
-├── screenshots/
-│   ├── image1.png
-│   └── image2.png
 ├── .gitignore
 └── README.md
 ```
