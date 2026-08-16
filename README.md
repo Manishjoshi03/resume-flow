@@ -13,16 +13,6 @@ ResumeFlow is a full-stack web application for creating, managing, customizing, 
 * Export resumes as PDF and DOCX
 * Sequelize ORM with relational database
 
-## Screenshots
-
-### Homepage
-
-![ResumeFlow Homepage](./screenshots/image1.png)
-
-### Resume Builder CTA Section
-
-![Resume Builder CTA Section](./screenshots/image2.png)
-
 ## Tech Stack
 
 ### Frontend
