@@ -138,9 +138,9 @@ ResumeFlow supports:
 
 ## Author
 
-**Harshit Joshi**
+**Manish Joshi**
 
 BCA (AI & ML) | Full-Stack Web Developer
 
-GitHub: [@harshit2k05](https://github.com/harshit2k05)
+GitHub: [@Manishjoshi03](https://github.com/Manishjoshi03)
 
