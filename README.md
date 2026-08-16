@@ -54,7 +54,7 @@ resume-flow/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/bhanu-joshi01/resume-flow.git
+git clone https://github.com/Manishjoshi03/resume-flow.git
 cd resume-flow
 ```
 
